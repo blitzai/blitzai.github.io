@@ -6,9 +6,6 @@
 * when do we want it?
   - >right now
 
-
-
-
-
-#### and we want to [make outselves famous](https://juaml.github.io/)
+* what is the hidden agenda?
+  - > [make outselves famous](https://juaml.github.io/)
 
