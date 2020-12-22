@@ -2,7 +2,7 @@
   - >AI
 
 *  when do we want it?
-  - >right now
+  - >now
 
 *  what is our real agenda?
   - > [become famous](https://juaml.github.io/)
