@@ -1,10 +1,10 @@
-## welcome to the blitzAI protest
+## the blitzAI protest
 
 * what do we want? 
-  ->AI
+  - >AI
 
 * when do we want it?
-  ->right now
+  - >right now
 
 
 
