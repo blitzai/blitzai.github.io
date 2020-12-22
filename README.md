@@ -7,5 +7,5 @@
   - >right now
 
 * what is the hidden agenda?
-  - > [make outselves famous](https://juaml.github.io/)
+  - > [become famous](https://juaml.github.io/)
 
