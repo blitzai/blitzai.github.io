@@ -1,4 +1,4 @@
-## Welcome to the blitzAI protest
+## welcome to the blitzAI protest
 
 * what do we want? 
   - >AI>
