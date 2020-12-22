@@ -1,10 +1,12 @@
 ## Welcome to blitzAI
 
 - what do we want? 
-  - > AI 
+  - AI 
 
 - when do we want it?
-  - > right now
+  - right now
+
+
 
 #### and we want to [make outselves famous](https://juaml.github.io/)
 
