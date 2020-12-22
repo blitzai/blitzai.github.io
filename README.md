@@ -1,10 +1,12 @@
 ## Welcome to blitzAI
 
-- what do we want? 
-  - AI 
+* what do we want? 
+  - >AI> 
 
-- when do we want it?
-  - right now
+* when do we want it?
+  - >right now>
+
+
 
 
 
