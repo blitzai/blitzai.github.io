@@ -1,5 +1,3 @@
-## the blitzAI protest
-
 * what do we want? 
   - >AI
 
