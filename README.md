@@ -4,6 +4,6 @@
 *  when do we want it?
   - >now
 
-*  what is our real agenda?
-  - > [become famous](https://juaml.github.io/)
+*  what do we really want?
+  - > [be famous](https://juaml.github.io/)
 
