@@ -5,5 +5,5 @@
   - >now
 
 *  what do we really want?
-  - > [be famous](https://juaml.github.io/)
+  - > [to be famous](https://juaml.github.io/)
 
